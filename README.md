@@ -27,5 +27,19 @@ Please note, require/import is supported in a limited manner for Remix supported
 For now, modules supported by Remix are ethers, web3, swarmgw, chai, multihashes, remix and hardhat only for hardhat.ethers object/plugin.
 For unsupported modules, an error like this will be thrown: '<module_name> module require is not supported by Remix IDE' will be shown.
 
+### Demo
+If you learn by watching videos, check out this screencast by [@me](https://github.com/Nareshchoudhary02) to understand trasaction :
 
-[![Watch the video](https://i.ibb.co/wdc2Gv5/Screenshot-2023-01-27-at-1-14-23-PM.png)](https://youtu.be/V69xVAKBNlI)
+<a title="Smart Money Deposit and Withdrawals" href="https://youtu.be/V69xVAKBNlI">
+  <img src="https://i.ibb.co/wdc2Gv5/Screenshot-2023-01-27-at-1-14-23-PM.png" width="800" height="600">
+</a>
+
+## 🤓 Author 
+<table>
+  <tr>
+  <td align="center"><a href="https://github.com/Nareshchoudhary02"><img src="https://i.ibb.co/nR1k4dZ/Myself-with-indian-flag.jpg" width="200px" alt="Myself"/><br /><sub><b>Naresh Choudhary</b></sub></a><br /><a href="https://github.com/Nareshchoudhary02" title="Code">💻</a></td>
+  </tr>
+</table>
+
+***
+Feel free to star ⭐ this repository if you like what you see 😉.
