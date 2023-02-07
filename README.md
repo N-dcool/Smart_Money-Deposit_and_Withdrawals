@@ -31,7 +31,7 @@ For unsupported modules, an error like this will be thrown: '<module_name> modul
 If you learn by watching videos, check out this screencast by [@me](https://github.com/Nareshchoudhary02) to understand trasaction :
 
 <a title="Smart Money Deposit and Withdrawals" href="https://youtu.be/V69xVAKBNlI">
-  <img src="https://i.ibb.co/wdc2Gv5/Screenshot-2023-01-27-at-1-14-23-PM.png" width="800" height="600">
+  <img src="https://cdn.discordapp.com/attachments/1071312646562914396/1072579693921976392/ytThumnail.png" width="100%" height="100%">
 </a>
 
 ## 🤓 Author 
